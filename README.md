@@ -1,2 +1,3 @@
 # cameratrap-imageclassification
 ## Work on Progress...
+There is room for data augmentation to improve the model accuracy
